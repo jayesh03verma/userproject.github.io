@@ -1,1 +1,1 @@
-web: gunicorn userproject --log-file
+web: gunicorn userproject --log-file-
